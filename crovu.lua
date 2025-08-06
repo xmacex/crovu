@@ -1,9 +1,9 @@
---- VU
+---crovu. VU for crow
 -- → 1 input
---   1 rms 1-2V  →
---   2 rms 2-3V  →
---   3 rms 3-4V  →
---   4 rms >=4V →
+--   1 rms ≥ 1V →
+--   2 rms ≥ 2V →
+--   3 rms ≥ 3V →
+--   4 rms ≥ 4V →
 
 MINV  = -5
 MAXV  = 10

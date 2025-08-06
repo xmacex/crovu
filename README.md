@@ -5,10 +5,10 @@ VU for crow
 ## Documentation
 
     → 1 input
-      1 rms 1-2V  →
-      2 rms 2-3V  →
-      3 rms 3-4V  →
-      4 rms >=4V →
+      1 rms ≥ 1V →
+      2 rms ≥ 2V →
+      3 rms ≥ 3V →
+      4 rms ≥ 4V →
 
 Listens to root mean square (RMS) volume of input 1 and as it gets louder turns on more and more of the outputs. Like a VU meter for crow; a cro-VU.
 
